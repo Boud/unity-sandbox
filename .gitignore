@@ -1,0 +1,6 @@
+Pirogue/Library/
+Pirogue/Temp/
+Pirogue/obj
+Pirogue/*.csproj
+Pirogue/*.unityproj
+Pirogue/*.sln
